@@ -15,7 +15,7 @@ IT professional with experience working with application teams and developers to
 <h2>👨‍💻 Analytical Projects:</h2>
 
 - <b>SQL</b>
-  - [Query Practice]
+  - [SQL Query Practice](https://github.com/Sarah269/SQL)
 - <b>Placeholder</b>
   - 
 - <b>Placeholder</b>
