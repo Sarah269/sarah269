@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah P
 ===============================================================================================================================
 
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47u9l5irab02w61weq5moapnz7q8b9ci71whhbwdsc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47u9l5irab02w61weq5moapnz7q8b9ci71whhbwdsc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 Project Manager. Analyst. Problem-solving. Collaborator
 -------------------------------------------------------
