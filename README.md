@@ -1,16 +1,30 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah P
+===============================================================================================================================
 
-<!--
-**Sarah269/sarah269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47u9l5irab02w61weq5moapnz7q8b9ci71whhbwdsc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-Here are some ideas to get you started:
+Project Manager. Analyst. Problem-solving. Collaborator
+-------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+IT professional with experience working with application teams and developers to deliver projects. I have worked on projects for data warehouses and data marts. I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
+
+*   🌍  I'm based in United States
+*   🧠  I'm learning Python
+*   ⚡  I actually have mainframe experience but don't tell anyone.
+
+<h2>👨‍💻 Analytical Projects:</h2>
+
+- <b>SQL</b>
+  - [Query Practice]
+- <b>Placeholder</b>
+  - 
+- <b>Placeholder</b>
+  - 
+  - 
+  - 
+  - 
+
+
+
+### Socials
+<p align="left"> <a href="https://www.github.com/Sarah269" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sarahpfeifferpm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
