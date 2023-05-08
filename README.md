@@ -16,9 +16,10 @@ IT professional with experience working with application teams and developers to
 
 - <b>SQL</b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
-- <b>Placeholder</b>
   - 
-- <b>Placeholder</b>
+- <b>SAS</b>
+  - 
+- <b>Python</b>
   - 
   - 
   - 
