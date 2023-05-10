@@ -18,6 +18,7 @@ IT professional with experience working with application teams and developers to
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
   - 
 - <b>SAS</b>
+  - [Housing Data Cleaning Project](https://github.com/Sarah269/Data-Cleaning-Project)
   - 
 - <b>Python</b>
   - 
