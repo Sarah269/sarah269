@@ -21,7 +21,7 @@ IT professional with experience working with application teams and developers to
   - [Housing Data Cleaning Project](https://github.com/Sarah269/Data-Cleaning-Project)
   - 
 - <b>Python</b>
-  - 
+  - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
   - 
   - 
   - 
