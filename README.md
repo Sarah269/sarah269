@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <img align="right" alt="Coding" width="200" src="https://media2.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47u9l5irab02w61weq5moapnz7q8b9ci71whhbwdsc&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-Project Manager. Analyst. Problem-solving. Collaborator
+Project Manager. Analyst. Problem-solver. Collaborator
 -------------------------------------------------------
 
 IT professional with experience working with application teams and developers to deliver projects. I have worked on projects for data warehouses and data marts. I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
