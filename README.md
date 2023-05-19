@@ -19,7 +19,7 @@ IT professional with experience working with application teams and developers to
   - [Olympics 2008 Data Exploration](https://github.com/Sarah269/Olympics-Data-Exploration)
 - <b>SAS</b>
   - [Housing Data Cleaning Project](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [Olympics 2008 Data Exploration](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
+  - [Olympics 2008 Data Exploration (Graphs & Macro)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
 - <b>Python</b>
   - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
   - 
