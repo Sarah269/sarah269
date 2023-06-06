@@ -23,7 +23,7 @@ IT professional with experience working with application teams and developers to
 - <b>Python</b>
   - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
   - 
-  - 
+- <b>Dashboard</b>
   - 
 
 
