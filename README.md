@@ -24,8 +24,8 @@ IT professional with experience working with application teams and developers to
   - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
   - 
 - <b>Dashboard</b>
-  - [Google Sheets.  Beijing 2008 Summer Olympics](https://github.com/Sarah269/Dashboard
-  - [Tableau.  COVID-19 US Data] (https://github.com/Sarah269/Dashboard)
+  - [Google Sheets.  Beijing 2008 Summer Olympics](https://github.com/Sarah269/Dashboard)
+  - [Tableau.  COVID-19 US Data](https://github.com/Sarah269/Dashboard)
 
 
 
