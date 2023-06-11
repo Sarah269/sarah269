@@ -16,20 +16,25 @@ IT professional with experience working with application teams and developers to
 
 - <b>SQL</b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
-  - [Olympics 2008 Data Exploration](https://github.com/Sarah269/Olympics-Data-Exploration)
+  - [Data Exploration - Beijing 2008 Summer Olympics](https://github.com/Sarah269/Olympics-Data-Exploration)
+  - [Data Cleaning - COVID19](https://github.com/Sarah269/Data-Cleaning-COVID19)
+  - [Data Exploration - Orders](https://github.com/Sarah269/Data-Exploration-Orders)
+  
 - <b>SAS</b>
-  - [Housing Data Cleaning Project](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [Olympics 2008 Data Exploration (Graphs & Macro)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
+  - [Data Cleaning - TN Housing Data](https://github.com/Sarah269/Data-Cleaning-Project)
+  - [Data Visualization - Beijing 2008 Summer Olympics (Graphs & Macro)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
+  - [Data Exploration - Cars](https://github.com/Sarah269/Data-Exploration-Cars)
+  
 - <b>Python</b>
   - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
-  - 
+  
 - <b>[Dashboards](https://github.com/Sarah269/Dashboard)</b>
-  - Oracle Live SQL/Google Sheets.  Beijing 2008 Summer Olympics
-  - Snowflake/Tableau.  COVID-19 US Data
-  - SAS dataset/Tableau. ABC Profit YTD
+  - Google Sheets.  Beijing 2008 Summer Olympics
+  - Tableau.  COVID-19 US Data
+  - Tableau. ABC Profit YTD
   - Tableau.  Project Management
-  - SAS dataset/Tableau. Dealership Sales Summary
-  - 
+  - Tableau. Dealership Sales Summary
+  
 
 
 
