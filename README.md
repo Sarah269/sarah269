@@ -41,6 +41,8 @@ IT professional with experience working with application teams and developers to
   - Tableau. ABC Profit YTD
   - Tableau.  Project Management
   - Tableau. Dealership Sales Summary
+  - Google Sheets.  Branch YTD Sales Dashboard
+    
   
 
 
