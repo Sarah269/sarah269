@@ -34,6 +34,7 @@ IT professional with experience working with application teams, engineers, and d
   
 - <b>Python</b>
   - [Cisco Networking Academy Final Project](https://github.com/Sarah269/Python_TicTacToe)
+  - [Mini Game #1](https://github.com/Sarah269/stunning-guacamole)
   
 - <b>[Dashboards](https://github.com/Sarah269/Dashboard)</b>
   - Google Sheets.  Beijing 2008 Summer Olympics
