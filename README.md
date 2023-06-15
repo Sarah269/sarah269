@@ -13,7 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Project Manager. Analyst. Problem-solver. Collaborator
 -------------------------------------------------------
 
-IT professional with experience working with application teams and developers to deliver projects. I have worked on projects for data warehouses and data marts. I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
+IT professional with experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, and data center server installs. I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
 
 *   🌍  I'm based in United States
 *   🧠  I'm learning Python
