@@ -13,13 +13,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Analyst. Problem-solver. Collaborator
 -------------------------------------------------------
 
-IT professional with 5+ years experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, and data center server installs. I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
+IT professional with 5+ years experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, application enchancements, and data center server installs. My projects involved working with resources based in the United States, Ireland, India, Costa Rica, Philippines, and Hong Kong.  I am brushing up on my SQL and SAS skills. Learning new skills. Looking forward to new opportunities.
 
 *   🌍  I'm based in United States
 *   🧠  I'm learning Python
-*   ⚡  I actually have mainframe experience but don't tell anyone.
+*   ⚡  Experienced with SDLC, Waterfall, and Kanban
+*   ⚡  Over ten years experience working remotely and delivering projects
 
-<h2>👨‍💻 Analytical Projects:</h2>
+<h2>👨‍💻 Directory:</h2>
 
 - <b>Projects</b>
   
