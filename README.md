@@ -28,7 +28,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [US COVID19 Epidemiological Data ](https://github.com/Sarah269/Data-Cleaning-COVID19)
   - [Orders](https://github.com/Sarah269/Data-Exploration-Orders)
   - [TN Housing Data](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [Car Dealership](https://github.com/Sarah269/Data-Exploration-Cars)
+  - [Cars](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   
