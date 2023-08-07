@@ -33,8 +33,6 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   
 - <b>[Dashboards](https://github.com/Sarah269/Dashboard)</b>
-  - Google Sheets.  Beijing 2008 Summer Olympics
-  - Tableau.  COVID-19 US Data
   - Tableau. ABC Profit YTD
   - Tableau.  Project Management
   - Tableau. Dealership Sales Summary
