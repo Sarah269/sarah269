@@ -29,6 +29,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+  - [Data Preparation](https://github.com/Sarah269/slice-and-dice)
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   
