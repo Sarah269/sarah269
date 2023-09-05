@@ -16,8 +16,9 @@ Analyst. Problem-solver. Collaborator
 IT professional with 7+ years experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, application enchancements, and data center server installs. My projects involved collaborating with resources based in the United States, Ireland, India, Costa Rica, Philippines, and Hong Kong.  Motivated self-starter.  "Can-do" attitude. Works independently or in a team.
 
 *   🌍  I'm based in United States
-*   🧠  SQL, SAS, Python
+*   🧠  SQL, SAS, Python, Excel, Google Sheets
 *   ⚡  SDLC, Waterfall, Kanban, Six Sigma DMAIC
+*   ⚡  Teradata, Netezza, Oracle, Snowflake
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 <h2>👨‍💻 Directory:</h2>
