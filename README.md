@@ -27,11 +27,14 @@ IT professional with 7+ years experience working with application teams, enginee
   
   - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Google Sheets)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
-  - [USArrests (Python).](https://github.com/Sarah269/glowing-dollop)
+  - [USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
   - [Data Preparation](https://github.com/Sarah269/slice-and-dice)
+  - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+ 
+- <b> Cybersecurity</b>
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   
