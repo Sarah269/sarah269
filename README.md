@@ -32,7 +32,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
   - [USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-  - [Credit Card Machine Learning (WIP) (Python, Pandas, Sklearn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
+  - [Credit Card Machine Learning (Python, Pandas, Sklearn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
   -  [Data Preparation](https://github.com/Sarah269/slice-and-dice)
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
  
