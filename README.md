@@ -23,18 +23,22 @@ IT professional with 7+ years experience working with application teams, enginee
 
 <h2>👨‍💻 Directory:</h2>
 
-- <b>Projects</b>
-  
+- <b>Data Analysis</b>
   - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Google Sheets)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
   - [USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
-  - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-  - [Credit Card Machine Learning (Python, Pandas, Sklearn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
   -  [Data Preparation](https://github.com/Sarah269/slice-and-dice)
+  
+
+- <b> Web Scraping</b>
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
+   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+   
+- <b> Machine Learning</b>
+  - [Credit Card Machine Learning (Python, Pandas, Sklearn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
  
 - <b> Cybersecurity</b>
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
