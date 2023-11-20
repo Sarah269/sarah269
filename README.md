@@ -24,14 +24,13 @@ IT professional with 7+ years experience working with application teams, enginee
 <h2>👨‍💻 Directory:</h2>
 
 - <b>Data Analysis</b>
-  - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Google Sheets)](https://github.com/Sarah269/Olympics-Data-Exploration)
+  - [Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
+  - [USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
-  -  [Data Preparation](https://github.com/Sarah269/slice-and-dice)
-  
+    
 
 - <b> Web Scraping</b>
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
@@ -44,13 +43,8 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
   
-- <b>[Dashboards](https://github.com/Sarah269/Dashboard)</b>
-  - Tableau. ABC Profit YTD
-  - Tableau.  Project Management
-  - Tableau. Dealership Sales Summary
-  - Google Sheets.  Branch YTD Sales Dashboard
-  - Tableau.  Car Dealership Dashboard
-    
+- <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
+     
 - <b> Miscellaneous </b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
