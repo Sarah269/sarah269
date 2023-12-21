@@ -40,8 +40,9 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Credit Card Machine Learning (Python, Pandas, Sklearn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
  
 - <b> Cybersecurity</b>
-  - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
-  - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main)
+  - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
+  - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main/Analyze%20Network%20Traffic)
+  - [File Integrity Monitor Proof of Concept](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
   
 - <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
      
