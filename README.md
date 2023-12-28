@@ -31,6 +31,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
   - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
+  - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
     
 
 - <b> Web Scraping</b>
