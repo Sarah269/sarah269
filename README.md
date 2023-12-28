@@ -26,7 +26,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Data Analysis</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
-  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop)
+  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
