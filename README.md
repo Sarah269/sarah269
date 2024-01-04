@@ -16,9 +16,9 @@ Analyst. Problem-solver. Collaborator
 IT professional with 7+ years experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, application enchancements, and data center server installs. My projects involved collaborating with resources based in the United States, Ireland, India, Costa Rica, Philippines, and Hong Kong.  Motivated self-starter.  "Can-do" attitude. Works independently or in a team.
 
 *   🌍  I'm based in United States
-*   🧠  SQL, SAS, Python, Excel, Google Sheets
+*   🧠  SQL, SAS, Python, Excel, Google Sheets, HTML5, CSS, Javascript
 *   ⚡  SDLC, Waterfall, Kanban, Six Sigma DMAIC
-*   ⚡  Teradata, Netezza, Oracle, Snowflake
+*   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 <h2>👨‍💻 Directory:</h2>
@@ -32,6 +32,9 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
   - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
   - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
+  - [Data Analysis - Analyze Unicorn Companies(PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
+  - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
+  - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
     
 
 - <b> Web Scraping</b>
