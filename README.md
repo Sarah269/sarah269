@@ -50,7 +50,9 @@ IT professional with 7+ years experience working with application teams, enginee
   - [File Integrity Monitor Proof of Concept](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
   
 - <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
-     
+
+-  <b>[HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)</b>
+
 - <b> Miscellaneous </b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
