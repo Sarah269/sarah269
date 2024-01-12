@@ -53,6 +53,8 @@ IT professional with 7+ years experience working with application teams, enginee
 
 -  <b>[HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)</b>
 
+-  <b>[Python]
+
 - <b> Miscellaneous </b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
