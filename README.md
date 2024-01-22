@@ -26,7 +26,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Data Analysis</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
-  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn).](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
+  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
@@ -35,11 +35,12 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Unicorn Companies(PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
+  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, sklearn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
     
 
 - <b> Web Scraping</b>
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
-   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn, Tableau)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
    
 - <b> Machine Learning</b>
   - [Credit Card Machine Learning (Python, Pandas, Sklearn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
