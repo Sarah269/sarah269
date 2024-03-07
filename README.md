@@ -37,6 +37,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, sklearn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
+  - [Data Analysis - Bike Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
     
 
 - <b> Web Scraping</b>
