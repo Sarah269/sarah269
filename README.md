@@ -47,7 +47,7 @@ IT professional with 7+ years experience working with application teams, enginee
    
 - <b> Machine Learning</b>
   - [Credit Card Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
-  - [Respiratory Illness Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
+  - [Respiratory Illness Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
   - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, sci-kit learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
  
 - <b> Cybersecurity</b>
