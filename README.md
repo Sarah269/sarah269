@@ -23,23 +23,30 @@ IT professional with 7+ years experience working with application teams, enginee
 
 <h2>👨‍💻 Directory:</h2>
 
-- <b>Data Analysis</b>
+- <b>Data Analysis - Excel</b>
+   - [Data Analysis - Bike Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
+   - [Data Analysis - NYC Taxi (Excel, Xlookup, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
+
+- <b>Data Analysis - SQL</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
-  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
+ 
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
-  - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
-  - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+
   - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
   - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
   - [Data Analysis - Analyze Unicorn Companies(PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
+
+- <b>Data Analysis - Python</b>
+  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, sklearn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
-  - [Data Analysis - Bike Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
-  - [Data Analysis - NYC Taxi (Excel, Xlookup, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
-    
+ 
+ - <b>Data Analysis - SAS</b>
+    - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
+    - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
 
 - <b> Web Scraping</b>
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
