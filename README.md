@@ -50,7 +50,7 @@ IT professional with 7+ years experience working with application teams, enginee
 
 - <b> Web Scraping</b>
   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
-   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn, Tableau)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
    
 - <b> Machine Learning</b>
   - [Credit Card Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
