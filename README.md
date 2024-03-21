@@ -39,38 +39,43 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
 
+- <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
+
+- <b>Power BI</b>
+  - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
+
 - <b>Data Analysis - Python</b>
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, sklearn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
  
- - <b>Data Analysis - SAS</b>
+  - <b> Machine Learning</b>
+     - [Credit Card Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
+     - [Respiratory Illness Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
+     - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, sci-kit learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
+
+  - <b> Web Scraping</b>
+     -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
+     - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+   
+
+
+-  <b>[Python](https://github.com/Sarah269/stunning-guacamole)</b>
+
+- <b>Data Analysis - SAS</b>
     - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
     - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
-
-- <b> Web Scraping</b>
-  -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
-   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-   
-- <b> Machine Learning</b>
-  - [Credit Card Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
-  - [Respiratory Illness Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
-  - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, sci-kit learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
  
 - <b> Cybersecurity</b>
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main/Analyze%20Network%20Traffic)
   - [File Integrity Monitor Proof of Concept](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
   
-- <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
-
--  <b>[HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)</b>
-
--  <b>[Python](https://github.com/Sarah269/stunning-guacamole)</b>
-
 - <b> Miscellaneous </b>
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
+  - [HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)
+
   
 
 
