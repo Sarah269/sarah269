@@ -26,6 +26,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Data Analysis - Excel</b>
    - [Data Analysis - Bike Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
    - [Data Analysis - NYC Taxi (Excel, Xlookup, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
+   - [Data Analysis - Supermarket Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
 
 - <b>Data Analysis - SQL</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
