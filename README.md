@@ -44,6 +44,7 @@ IT professional with 7+ years experience working with application teams, enginee
 
 - <b>Power BI</b>
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
+  - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
 
 - <b>Data Analysis - Python</b>
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
