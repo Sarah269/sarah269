@@ -59,7 +59,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
     
 - <b>Web Apps</b>
-  - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole/tree/mainpplications)
+  - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
   - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
 
 - <b> Web Scraping</b>
