@@ -50,17 +50,17 @@ IT professional with 7+ years experience working with application teams, enginee
 
 - <b>Data Analysis - Python</b>
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
-  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, sklearn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
+  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
  
 - <b> Machine Learning</b>
-   - [Credit Card Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
-  - [Respiratory Illness Machine Learning Classification (Python, Pandas, sci-kit learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
-  - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, sci-kit learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
+   - [Credit Card Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
+  - [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
+  - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
     
 - <b>Web Apps</b>
- - [Default of Credit Card Clients Web App (Python, RandomForestClassifier,Streamlit)](https://github.com/Sarah269/Turbo-guacamole/tree/mainpplications)
- - 
+  - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole/tree/mainpplications)
+  - 
 
 - <b> Web Scraping</b>
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
