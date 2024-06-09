@@ -25,6 +25,7 @@ IT professional with 7+ years experience working with application teams, enginee
 
 - <b>Virtual Work Experience on Forage</b>
   - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
+  - [Cognizant Artifical Intelligence Job Simulation on Forage (Python, Pandas, Sci-kit Learn, PowerPoint)](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
 
 
 - <b>Data Analysis - Excel</b>
