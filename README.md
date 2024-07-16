@@ -28,6 +28,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Cognizant Artifical Intelligence Job Simulation on Forage (Python, Pandas, Sci-kit Learn, PowerPoint)](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
   - [Datacom Automation Job Simulation on Forage (Miro)](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
   - [Siemens Mobility Project Manager Job Simulation on Forage (Excel, Word)](https://github.com/Sarah269/bug-free-eureka/tree/main/Siemens)
+  - [JP Morgan Chase & Co Agile Job Simulation on Forage (Trello)](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
 
 
 - <b>Data Analysis - Excel</b>
