@@ -29,6 +29,8 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Datacom Automation Job Simulation on Forage (Miro)](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
   - [Siemens Mobility Project Manager Job Simulation on Forage (Excel, Word)](https://github.com/Sarah269/bug-free-eureka/tree/main/Siemens)
   - [JP Morgan Chase & Co Agile Job Simulation on Forage (Trello)](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
+  - [CBRE Project Management Job Simulation on Forage (Excel)](https://github.com/Sarah269/bug-free-eureka/tree/main)
+  - [Mastercard Cybersecurity Job Simulation on Forage (Google Slides)](https://.com/Sarah269/bug-free-eureka/tree/main/Mastercard%20Cybersecurity)
 
 
 - <b>Data Analysis - Excel</b>
