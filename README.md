@@ -43,12 +43,9 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Data Analysis - SQL</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
- 
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
-
   - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
   - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
-  - [Data Analysis - Analyze Unicorn Companies(PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
 
@@ -57,7 +54,8 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Power BI</b>
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
   - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
-
+  - [Data Analysis - Analyze Unicorn Companies(PostgreSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
+    
 - <b>Data Analysis - Python</b>
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
@@ -71,6 +69,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Web Apps</b>
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
   - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
+  - [FindaBrewery (Python, Streamlit]
 
 - <b> Web Scraping</b>
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
