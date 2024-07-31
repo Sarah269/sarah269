@@ -69,7 +69,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b>Web Apps</b>
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
   - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
-  - [FindaBrewery (Python, Streamlit](https://github.com/Sarah269/probable-octo-robot)
+  - [FindaBrewery (Python, Streamlit)](https://github.com/Sarah269/probable-octo-robot)
 
 - <b> Web Scraping</b>
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
