@@ -48,6 +48,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
+  - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
 
 - <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
 
