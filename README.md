@@ -39,6 +39,7 @@ IT professional with 7+ years experience working with application teams, enginee
    - [Data Analysis - Supermarket Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
    - [Data Analysis - Coffee Sales (Excel, Pivot table, Xlookup)](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Sales)
    - [Data Analysis - Coffee Profit (Excel, Pivot table, index/match)](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
+   - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
 
 - <b>Data Analysis - SQL</b>
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
@@ -49,16 +50,15 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
+  - [Data Analysis - Analyze Unicorn Companies(PostgreSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
+  - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions, Power BI)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
 
 - <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
 
-- <b>Power BI</b>
-  - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
-  - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
-  - [Data Analysis - Analyze Unicorn Companies(PostgreSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
-  - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions, Power BI)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
-    
+-<b>[Power BI Dashboards]()
+
 - <b>Data Analysis - Python</b>
+  - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
