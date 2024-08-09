@@ -51,7 +51,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
   - [Data Analysis - Analyze Unicorn Companies (PostgreSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
-  - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions, Power BI)](https://github.com/Sarah269/glowing-dollop/blob/main/Manufacturing%20Process/README.md)
+  - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
 
 - <b>[Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)</b>
 
