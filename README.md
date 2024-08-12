@@ -61,7 +61,12 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
- 
+
+- <b>Data Analysis - SAS</b>
+    - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
+    - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
+    - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+
 - <b> Machine Learning</b>
    - [Credit Card Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
   - [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
@@ -75,14 +80,8 @@ IT professional with 7+ years experience working with application teams, enginee
 - <b> Web Scraping</b>
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
    - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-   
-
-
+ 
 -  <b>[Python](https://github.com/Sarah269/stunning-guacamole)</b>
-
-- <b>Data Analysis - SAS</b>
-    - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
-    - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
  
 - <b> Cybersecurity</b>
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
