@@ -21,9 +21,16 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL
 *   ⚡  Over ten years experience working remotely and delivering projects
 
-<h2>👨‍💻 Directory:</h2>
+# Directory
+- [Virtual Work Experience on Forage](#virtual-work-experience-on-forage)
+- [Web Apps](#web-apps)
 
-- <b>Virtual Work Experience on Forage</b>
+
+
+
+
+
+## Virtual Work Experience on Forage
   - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
   - [Cognizant Artifical Intelligence Job Simulation on Forage (Python, Pandas, Sci-kit Learn, PowerPoint)](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
   - [Datacom Automation Job Simulation on Forage (Miro)](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
@@ -72,7 +79,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
   - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
     
-- <b>Web Apps</b>
+## Web Apps
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
   - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
   - [FindaBrewery (Python, Streamlit)](https://github.com/Sarah269/probable-octo-robot)
