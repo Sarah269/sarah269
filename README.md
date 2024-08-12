@@ -52,6 +52,7 @@ IT professional with 7+ years experience working with application teams, enginee
    - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
 
 ## SQL
+  - [Data Analysis - Bike Shares (SQLite, Power BI, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/BikeShares)
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
   - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
   - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
