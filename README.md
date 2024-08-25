@@ -78,7 +78,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
    - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-   - [Python](https://github.com/Sarah269/stunning-guacamole)
+   - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
    - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
 ## SAS
