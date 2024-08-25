@@ -26,9 +26,9 @@ IT professional with 7+ years experience working with application teams, enginee
 - [Dashboards](#dashboards)
 - [Excel](#excel)
 - [SQL](#sql)
-- [SAS](#sas)
 - [Python](#python)
 - [Web Apps](#web-apps)
+- [SAS](#sas)
 
 ## Virtual Work Experience on Forage
   - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
@@ -63,13 +63,6 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
   
-
-## SAS
-  - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
-  - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
-  - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
-
 ## Web Apps 
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
   - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
@@ -87,6 +80,12 @@ IT professional with 7+ years experience working with application teams, enginee
    - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
    - [Python](https://github.com/Sarah269/stunning-guacamole)
    - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
+
+## SAS
+  - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
+  - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
+  - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
 
 ## Cybersecurity
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
