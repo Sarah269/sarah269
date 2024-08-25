@@ -68,6 +68,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
+  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
 
 ## Web Apps 
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
