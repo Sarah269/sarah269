@@ -22,7 +22,7 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 # Directory
-- [Virtual Work Experience on Forage](#virtual-work-experience-on-forage)
+- [Job Simulation on Forage](#job-simulation-on-forage)
 - [Dashboards](#dashboards)
 - [Excel](#excel)
 - [SQL](#sql)
@@ -30,7 +30,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - [Web Apps](#web-apps)
 - [SAS](#sas)
 
-## Virtual Work Experience on Forage
+## Job Simulation on Forage
   - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
   - [Cognizant Artifical Intelligence Job Simulation on Forage (Python, Pandas, Sci-kit Learn, PowerPoint)](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
   - [Datacom Automation Job Simulation on Forage (Miro)](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
