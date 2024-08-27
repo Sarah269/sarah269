@@ -69,6 +69,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [FindaBrewery (Python, Streamlit)](https://github.com/Sarah269/probable-octo-robot)
     
 ## Python
+  - [Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/Stroke)
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
