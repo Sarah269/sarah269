@@ -28,6 +28,7 @@ IT professional with 7+ years experience working with application teams, enginee
 - [SQL](#sql)
 - [Python](#python)
 - [Web Apps](#web-apps)
+- [HTML CSS Javascript](#html-css-javascript)
 - [SAS](#sas)
 
 ## Job Simulation on Forage
@@ -62,6 +63,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
+  - [SQL Query Practice](https://github.com/Sarah269/SQL)
   
 ## Web Apps 
   - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
@@ -69,33 +71,41 @@ IT professional with 7+ years experience working with application teams, enginee
   - [FindaBrewery (Python, Streamlit)](https://github.com/Sarah269/probable-octo-robot)
     
 ## Python
-  - [Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/Stroke)
+ <b> Data Analysis </b>
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
-  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
-   - [Credit Card Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
+    
+  <b> Machine Learning </b>
+  - [Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/Stroke)
+  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
+  - [Credit Card Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
   - [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
   - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
+
+<b> Web Scraping </b>
    -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
    - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
+
+<b> Other </b>
    - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
    - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
 ## SAS
+  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
   - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
   - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
   - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
-  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
+
+## HTML CSS Javascript
+  - [HTML CSS Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)
 
 ## Cybersecurity
   - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
   - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main/Analyze%20Network%20Traffic)
   - [File Integrity Monitor Proof of Concept](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
   
-## Miscellaneous
-  - [SQL Query Practice](https://github.com/Sarah269/SQL)
-  - [HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)
+
 
   
 
