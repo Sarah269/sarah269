@@ -21,6 +21,9 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL
 *   ⚡  Over ten years experience working remotely and delivering projects
 
+Portfolio
+- [Data Analyst](https://sarah269.github.io/portfolio/)
+  
 # Directory
 - [Job Simulation on Forage](#job-simulation-on-forage)
 - [Dashboards](#dashboards)
