@@ -16,23 +16,22 @@ Analyst. Problem-solver. Collaborator
 IT professional with 7+ years experience working with application teams, engineers, and developers to deliver projects. I have worked on projects for data warehouses, data marts, application enchancements, and data center server installs. My projects involved collaborating with resources based in the United States, Ireland, India, Costa Rica, Philippines, and Hong Kong.  Motivated self-starter.  "Can-do" attitude. Works independently or in a team.
 
 *   🌍  I'm based in United States
-*   🧠  SQL, SAS, Python, Excel, Google Sheets, HTML5, CSS, Javascript
+*   🧠  SQL and Python
 *   ⚡  SDLC, Waterfall, Kanban, Six Sigma DMAIC
-*   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL
+*   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL, MySQL
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 Portfolio
 - [Data Analyst](https://sarah269.github.io/portfolio/)
   
 # Directory
+- [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
 - [Job Simulation on Forage](#job-simulation-on-forage)
 - [Dashboards](#dashboards)
-- [Excel](#excel)
+
 - [SQL](#sql)
 - [Python](#python)
-- [Web Apps](#web-apps)
-- [HTML CSS Javascript](#html-css-javascript)
-- [SAS](#sas)
+
 
 ## Job Simulation on Forage
   - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
@@ -47,14 +46,6 @@ Portfolio
 - [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
 - [Power BI Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
-## Excel
-   - [Data Analysis - Bike Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/Bike%20Sales)
-   - [Data Analysis - NYC Taxi (Excel, Xlookup, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/NYC%20Taxi)
-   - [Data Analysis - Supermarket Sales (Excel, Pivot table)](https://github.com/Sarah269/glowing-dollop/tree/main/SupermarketSales)
-   - [Data Analysis - Coffee Sales (Excel, Pivot table, Xlookup)](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Sales)
-   - [Data Analysis - Coffee Profit (Excel, Pivot table, index/match)](https://github.com/Sarah269/glowing-dollop/tree/main/Coffee%20Profit)
-   - [Data Analysis - North Carolina School Performance (Excel, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/NC%20School%20Performance)
-
 ## SQL
   - [Data Analysis - Bike Shares (SQLite, Power BI, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/BikeShares)
   - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
@@ -67,12 +58,7 @@ Portfolio
   - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
   - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
-  
-## Web Apps 
-  - [Default of Credit Card Clients Web App (Python, Scikit-learn,Streamlit)](https://github.com/Sarah269/Turbo-guacamole?files=1)
-  - [Respiratory Illness Web App (Python, Scikit-learn, Streamlit)](https://github.com/Sarah269/AmazingLavender/tree/main)
-  - [FindaBrewery (Python, Streamlit)](https://github.com/Sarah269/probable-octo-robot)
-    
+      
 ## Python
  <b> Data Analysis </b>
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
@@ -94,20 +80,11 @@ Portfolio
    - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
    - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
-## SAS
-  - [Data Analysis - Shoes (SAS)](https://github.com/Sarah269/glowing-dollop/tree/main/Shoes)
-  - [Data Exploration - Beijing 2008 Summer Olympics (SAS)](https://github.com/Sarah269/Olympics-Data-Exploration/tree/main/SAS)
-  - [Data Exploration - Cars (SAS)](https://github.com/Sarah269/Data-Exploration-Cars)
-  - [Data Cleaning - Tennessee Housing Data (Google Sheets, SAS)](https://github.com/Sarah269/Data-Cleaning-Project)
 
-## HTML CSS Javascript
-  - [HTML CSS Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)
 
-## Cybersecurity
-  - [Enabling and configuring Windows Firewall](https://github.com/Sarah269/potential-cyber-doodle/tree/main/MS%20Firewall)
-  - [Analyzing Network Traffic using Wireshark](https://github.com/Sarah269/potential-cyber-doodle/tree/main/Analyze%20Network%20Traffic)
-  - [File Integrity Monitor Proof of Concept](https://github.com/Sarah269/potential-cyber-doodle/tree/main/FIM)
-  
+
+
+
 
 
   
