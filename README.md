@@ -39,7 +39,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
 ## [Job Simulation on Forage (Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
-  - BCG, Cognizant, MasterCard, CBRE, Siemen
+  - BCG, Cognizant, MasterCard, CBRE, Siemens, JP Morgan Chase, Datacom
 
 ## [Data Projects](https://github.com/Sarah269/glowing-dollop/tree/main)
   - SQL, Python, Excel
