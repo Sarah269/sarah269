@@ -38,11 +38,15 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
-## [Job Simulation on Forage(Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
+## [Job Simulation on Forage (Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
+  - BCG, Cognizant, MasterCard, CBRE, Siemen
 
-## [Data Projects (SQL, Python, Excel](https://github.com/Sarah269/glowing-dollop/tree/main)
+## [Data Projects](https://github.com/Sarah269/glowing-dollop/tree/main)
+  - SQL, Python, Excel
 
 ## [SQL Query Practice](https://github.com/Sarah269/SQL)
+  - Leetcode
+  - Stratascratch
 
 ## Dashboards
 - [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
