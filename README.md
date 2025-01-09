@@ -38,7 +38,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
-## [Job Simulation on Forage(Virtual Work Experience from top companies)]
+## [Job Simulation on Forage(Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
 
 ## [Data Projects (SQL, Python, Excel](https://github.com/Sarah269/glowing-dollop/tree/main)
 
