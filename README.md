@@ -22,63 +22,34 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 Portfolio
-- [Data Analyst](https://sarah269.github.io/portfolio/)
+- [Portfolio](https://sarah269.github.io/portfolio/)
   
-# Directory
-- [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
-- [Job Simulation on Forage](#job-simulation-on-forage)
-- [Dashboards](#dashboards)
-- [Data Projects](https://github.com/Sarah269/glowing-dollop/tree/main)
-- [SQL](#sql)
-- [Python](#python)
+## [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
+  - [Dimension Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Dimensional%20Data%20Modeling)
+  - [Fact Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Fact%20Data%20Modelling)
+  - Apache Spark
+  - Apache Flink, Apache Kafka
+  - Applying Analytical Patterns
+  - KPIs and Experimentation
+  - Data Pipeline Maintenance
 
+## Data Modeling
+  - [Dimension Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Dimensional%20Data%20Modeling)
+  - [Fact Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Fact%20Data%20Modelling)
+  - [SQL Query Practice](https://github.com/Sarah269/SQL)
 
-## Job Simulation on Forage
-  - [BCG GenAI Job Simulation on Forage (Excel, Python, Pandas, SEC EDGAR database)](https://github.com/Sarah269/bug-free-eureka/tree/main/BCG%20GenAI)
-  - [Cognizant Artifical Intelligence Job Simulation on Forage (Python, Pandas, Sci-kit Learn, PowerPoint)](https://github.com/Sarah269/bug-free-eureka/tree/main/CognizantAI)
-  - [Datacom Automation Job Simulation on Forage (Miro)](https://github.com/Sarah269/bug-free-eureka/tree/main/DatacomAutomation)
-  - [Siemens Mobility Project Manager Job Simulation on Forage (Excel, Word)](https://github.com/Sarah269/bug-free-eureka/tree/main/Siemens)
-  - [JP Morgan Chase & Co Agile Job Simulation on Forage (Trello)](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
-  - [CBRE Project Management Job Simulation on Forage (Excel)](https://github.com/Sarah269/bug-free-eureka/tree/main)
-  - [Mastercard Cybersecurity Job Simulation on Forage (Google Slides)](https://.com/Sarah269/bug-free-eureka/tree/main/Mastercard%20Cybersecurity)
+## [Job Simulation on Forage](Virtual Work Experience from top companies)
+
+## [Data Projects (SQL, Python, Excel](https://github.com/Sarah269/glowing-dollop/tree/main)
 
 ## Dashboards
 - [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
 - [Power BI Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
-## SQL
-  - [Data Analysis - Bike Shares (SQLite, Power BI, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/BikeShares)
-  - [Data Analysis - Beijing 2008 Summer Olympics (Oracle LiveSQL, SAS, Tableau)](https://github.com/Sarah269/Olympics-Data-Exploration)
-  - [Data Analysis - US COVID19 Epidemiological Data (Snowflake, SQL, Tableau)](https://github.com/Sarah269/Data-Cleaning-COVID19)
-  - [Data Exploration Large Dataset - Orders (Snowflake, SQL)](https://github.com/Sarah269/Data-Exploration-Orders)
- - [Data Analysis - Analyze Unicorn Companies (PostgreSQL, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Unicorn%20Companies)
-  - [Data Analysis - Manufacturing Process (PostrgreSQL, Window Functions, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Manufacturing%20Process)
-  - [Data Analysis - Analyze International Debt Statistics (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/International%20Debt)
-  - [Data Analysis - Analyze Motorcycle Parts Sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Motorcycle%20Sales)
-  - [Data Analysis - Analyze Video Game reviews and sales (PostgreSQL)](https://github.com/Sarah269/glowing-dollop/tree/main/Video%20Games)
-  - [Data Exploration - Countries (MYSQL 8.0)](https://github.com/Sarah269/glowing-dollop/tree/main/Countries)
-  - [SQL Query Practice](https://github.com/Sarah269/SQL)
-      
 ## Python
-  - [Data Analysis  & Machine Learning]
-  - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
-  - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
-  - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
-    
-  <b> Machine Learning </b>
-  - [Stroke Machine Learning Classification (Python, Pandas, Sci-kit learn, PowerPoint)](https://github.com/Sarah269/glowing-dollop/tree/main/Stroke)
-  - [Clustering - Analyze Customer Market Segment (Python, Pandas, Matplotlib, Seaborn, Scikit-learn)](https://github.com/Sarah269/glowing-dollop/tree/main/CustomerSegment)
-  - [Credit Card Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Pickle)](https://github.com/Sarah269/glowing-dollop/tree/main/Credit%20Card%20Machine%20Learning)
-  - [Respiratory Illness Machine Learning Classification (Python, Pandas, Scikit-learn, Seaborn, Matplotlib, Google Slides)](https://github.com/Sarah269/glowing-dollop/tree/main/Respiratory%20Illness)
-  - [Diabetes Machine Learning Linear Regression (Python, Statsmodels, Pandas, Scikit-learn, Seaborn, Matplotlib)](https://github.com/Sarah269/glowing-dollop/tree/main/Diabetes)
-
-<b> Web Scraping </b>
-   -  [National Gallery of Art Web Scrape (Python, BeautifulSoup, Pandas)](https://github.com/Sarah269/glowing-dollop/tree/main/Gallery%20of%20Art)
-   - [Web Scraping Cosmetics (Python, BeautifulSoup, Pandas, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/WebScrape%20Cosmetics)
-
-<b> Other </b>
-   - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
-   - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
+  - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
+  - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
+  - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
 
 
