@@ -60,7 +60,7 @@ Portfolio
   - [SQL Query Practice](https://github.com/Sarah269/SQL)
       
 ## Python
- <b> Data Analysis </b>
+  - [Data Analysis  & Machine Learning]
   - [Data Analysis - Breweries (Public API, Python, Power BI)](https://github.com/Sarah269/glowing-dollop/tree/main/Breweries)
   - [Data Analysis - USArrests (Python, Pandas, Matplotlib, Seaborn)](https://github.com/Sarah269/glowing-dollop/tree/main/USArrests)
   - [Data Analysis - Finding Outliers (Oracle LiveSQL, Python, Pandas, Matplotlib, Seaborn, Scipy)](https://github.com/Sarah269/glowing-dollop/tree/main/Outliers)
