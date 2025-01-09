@@ -21,8 +21,8 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Teradata, Netezza, Oracle, Snowflake, PostgreSQL, MySQL
 *   ⚡  Over ten years experience working remotely and delivering projects
 
-Portfolio
-- [Portfolio](https://sarah269.github.io/portfolio/)
+
+## [Portfolio](https://sarah269.github.io/portfolio/)
   
 ## [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
   - [Dimension Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Dimensional%20Data%20Modeling)
@@ -33,23 +33,22 @@ Portfolio
   - KPIs and Experimentation
   - Data Pipeline Maintenance
 
-## Data Modeling
-  - [Dimension Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Dimensional%20Data%20Modeling)
-  - [Fact Data Modeling](https://github.com/Sarah269/jubilant-goggles/tree/main/Fact%20Data%20Modelling)
-  - [SQL Query Practice](https://github.com/Sarah269/SQL)
+## Python
+  - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
+  - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
+  - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
 
-## [Job Simulation on Forage](Virtual Work Experience from top companies)
+## [Job Simulation on Forage(Virtual Work Experience from top companies)]
 
 ## [Data Projects (SQL, Python, Excel](https://github.com/Sarah269/glowing-dollop/tree/main)
+
+## [SQL Query Practice](https://github.com/Sarah269/SQL)
 
 ## Dashboards
 - [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
 - [Power BI Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
-## Python
-  - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
-  - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
-  - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
+
 
 
 
