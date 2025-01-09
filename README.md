@@ -28,7 +28,7 @@ Portfolio
 - [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
 - [Job Simulation on Forage](#job-simulation-on-forage)
 - [Dashboards](#dashboards)
-
+- [Data Projects](https://github.com/Sarah269/glowing-dollop/tree/main)
 - [SQL](#sql)
 - [Python](#python)
 
