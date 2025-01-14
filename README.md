@@ -27,7 +27,7 @@ IT professional with 7+ years experience working with application teams, enginee
 ## [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
   - Dimension Data Modeling
   - Fact Data Modeling
-  - Apache Spark
+  - Apache Spark, Apache Iceberg
   - Apache Flink, Apache Kafka
   - Applying Analytical Patterns
   - KPIs and Experimentation
