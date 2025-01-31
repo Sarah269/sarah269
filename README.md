@@ -1,4 +1,4 @@
-<img width = "800" height = "300" src ="https://github.com/Sarah269/sarah269/assets/132937964/483bf753-acb3-405d-a66a-a725d955bcbc">
+<img width = "600" height = "250" src ="https://github.com/Sarah269/sarah269/assets/132937964/483bf753-acb3-405d-a66a-a725d955bcbc">
 
 
 
