@@ -41,8 +41,9 @@ IT professional with 7+ years experience working with application teams, enginee
 ## [Job Simulation on Forage (Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
   - BCG, Cognizant, MasterCard, CBRE, Siemens, JP Morgan Chase, Datacom
 
-## [Data Projects](https://github.com/Sarah269/glowing-dollop/tree/main)
-  - SQL, Python, Excel
+## Data Projects
+- [Data Analysis/Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
+- [Data Engineering](https://github.com/Sarah269/bug-free-octo-sniffle/tree/main)
 
 ## [SQL Query Practice](https://github.com/Sarah269/SQL)
   - Leetcode
