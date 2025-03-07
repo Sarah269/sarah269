@@ -33,16 +33,8 @@ IT professional with 7+ years experience working with application teams, enginee
   - KPIs and Experimentation
   - Data Pipeline Maintenance
 
-## Python
-  - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
-  - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
-  - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
-
-## [Job Simulation on Forage (Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
-  - BCG, Cognizant, MasterCard, CBRE, Siemens, JP Morgan Chase, Datacom
-
 ## Data Projects
-- [SQL, Excel](https://github.com/Sarah269/glowing-dollop/tree/main)
+- [SQL, Excel, Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
 - [Data Engineering](https://github.com/Sarah269/bug-free-octo-sniffle/tree/main)
 
 ## [SQL Query Practice](https://github.com/Sarah269/SQL)
@@ -53,10 +45,16 @@ IT professional with 7+ years experience working with application teams, enginee
 - [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
 - [Power BI Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
+## Python
+  - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
+  - [Python Programs](https://github.com/Sarah269/stunning-guacamole)
+  - [Cisco Networking Academy Python 1 Final Project](https://github.com/Sarah269/Python_TicTacToe)
+
 ## HTML, CSS, Javascript
 - [HTML, CSS, Javascript](https://github.com/Sarah269/verbose-doodle/tree/main)
 
-
+## [Job Simulation on Forage (Virtual Work Experience from top companies)](https://github.com/Sarah269/bug-free-eureka)
+  - BCG, Cognizant, MasterCard, CBRE, Siemens, JP Morgan Chase, Datacom
 
 
 
