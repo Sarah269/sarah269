@@ -42,8 +42,7 @@ IT professional with 7+ years experience working with application teams, enginee
   - Stratascratch
 
 ## Dashboards
-- [Tableau Dashboards](https://public.tableau.com/app/profile/s.pfeiffer2269/vizzes)
-- [Power BI Dashboards](https://github.com/Sarah269/supreme-fiesta)
+- [Power BI, Tableau, Excel Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
 ## Python
   - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
