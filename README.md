@@ -37,12 +37,22 @@ IT professional with 7+ years experience working with application teams, enginee
 - [SQL, Excel, Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
 - [Data Engineering](https://github.com/Sarah269/bug-free-octo-sniffle/tree/main)
 
+## Dashboards
+- [Power BI, Tableau, Excel Dashboards](https://github.com/Sarah269/supreme-fiesta)
+
+## User Stories
+- [J.P. Morgan Chase & Co. Agile Job Simulation](https://github.com/Sarah269/bug-free-eureka/tree/main/JPMC%20Agile)
+- [Breweries](https://github.com/Sarah269/probable-octo-robot/tree/main)
+- [Credit Card Default](https://github.com/Sarah269/Turbo-guacamole/tree/main)
+- [Online Payment Fraud](https://github.com/Sarah269/urban-broccoli-opf/tree/main)
+- [Respiratory Illness](https://github.com/Sarah269/AmazingLavender)
+- [IBM HR Attrition](https://github.com/Sarah269/sturdy-broccoli-attrition)
+
+
 ## [SQL Query Practice](https://github.com/Sarah269/SQL)
   - Leetcode
   - Stratascratch
 
-## Dashboards
-- [Power BI, Tableau, Excel Dashboards](https://github.com/Sarah269/supreme-fiesta)
 
 ## Python
   - [Data Analysis  & Machine Learning](https://github.com/Sarah269/glowing-dollop/tree/main)
