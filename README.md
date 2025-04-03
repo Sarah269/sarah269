@@ -22,8 +22,7 @@ IT professional with 7+ years experience working with application teams, enginee
 *   ⚡  Over ten years experience working remotely and delivering projects
 
 
-## [Portfolio](https://sarah269.github.io/portfolio/)
-  
+ 
 ## [DataExpert.io Free Data Engineering Bootcamp](https://github.com/Sarah269/jubilant-goggles/tree/main)
   - Dimension Data Modeling
   - Fact Data Modeling
