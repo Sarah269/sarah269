@@ -1,9 +1,3 @@
-<img width = "600" height = "250" src ="https://github.com/Sarah269/sarah269/assets/132937964/483bf753-acb3-405d-a66a-a725d955bcbc">
-
-
-
-
-
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah P
 ===============================================================================================================================
